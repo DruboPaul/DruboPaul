@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co.com/gvtqZ1J/Forestry-Graduate.gif)](https://about-robin-mitra.netlify.app/)
+[![MasterHead](https://i.ibb.co.com/gvtqZ1J/Forestry-Graduate.gif)]()
 
 <h1 align="center">Hi 👋, I am Drubo</h1>
 
