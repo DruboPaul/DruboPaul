@@ -16,7 +16,7 @@
 <h3>👯 I’m looking to collaborate on - Data Science Project</h3>
 <h3>💬 Ask me about - Python, ArcGIS, Google Earth Engine</h3>
 <h3>📫 How to reach me - pdrubo064@gmail.com</h3>
-<h3>📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1tk4TJECJBaj9u9ad1ME9VER4SGLiEzbH">here</a></h3>
+<h3>📄 Know about my experiences <a href="https://drive.google.com/file/d/1rMZ3FE4JoRj0sHiwUPE0mRbp7ss8TKlg/view?usp=sharing">here</a></h3>
 <h3>⚡ Fun fact - I’ve got a brave heart that laughs in the face of ghosts, but throw on a horror movie, and I’ll be jumping at shadows. Spooky stuff just gets to me. 🎃💀</h3>
 </div>
 
