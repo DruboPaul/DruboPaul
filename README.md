@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">A Forestry graduate skilled in Python, R, Google Earth Engine, ArcGIS, NumPy, Pandas, and Power BI, with a mission to revolutionize landslide susceptibility mapping through GIS and artificial neural networks.</h2>
+<h2 align="left">A Forestry graduate skilled in Python, R, Google Earth Engine, ArcGIS, NumPy, Pandas, SQL and Power BI, with a mission to revolutionize landslide susceptibility mapping through GIS and artificial neural networks.</h2>
 
 ###
 
