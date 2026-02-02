@@ -4,7 +4,8 @@
 
 
 ## Hi 👋, I'm Drubo Paul  
-**Forestry Graduate | Remote Sensing & GIS Researcher | PhD Applicant (Environmental Geospatial Analysis)**
+**Forestry Graduate | Remote Sensing & GIS Researcher | Environmental Geospatial Analysis
+**
 
 I work at the intersection of **Remote Sensing, GIS, and Machine Learning**, with a focus on **environmental monitoring and natural hazard assessment**. My research emphasizes extracting spatiotemporal patterns from multi-source satellite data (Optical & SAR) to support **risk assessment, ecosystem monitoring, and evidence-based environmental decision-making**.
 
