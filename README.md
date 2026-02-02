@@ -1,3 +1,8 @@
+![Banner](https://raw.githubusercontent.com/DruboPaul/DruboPaul/main/banner.jpeg)
+
+
+
+
 ## Hi 👋, I'm Drubo Paul  
 **Forestry Graduate | Remote Sensing & GIS Researcher | PhD Applicant (Environmental Geospatial Analysis)**
 
