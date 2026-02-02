@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/DruboPaul/DruboPaul/main/banner.jpeg)
+![Banner](https://raw.githubusercontent.com/DruboPaul/DruboPaul/main/banner2.jpeg)
 
 
 
