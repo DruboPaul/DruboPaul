@@ -26,7 +26,7 @@ I work at the intersection of **Remote Sensing, GIS, and Machine Learning**, wit
 - **SAR-based Surface Water Monitoring** through time-series analysis in Google Earth Engine  
 - **Mangrove Health and Forest Dynamics** using multi-temporal satellite indices and change detection techniques  
 
-📌 *Actively preparing PhD applications in Remote Sensing, GIS, and Environmental Data Science.*
+
 
 ---
 
