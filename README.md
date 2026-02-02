@@ -1,45 +1,66 @@
-[![MasterHead](https://i.ibb.co.com/gvtqZ1J/Forestry-Graduate.gif)]()
+## Hi 👋, I'm Drubo Paul  
+**Forestry Graduate | Remote Sensing & GIS Researcher | PhD Applicant (Environmental Geospatial Analysis)**
 
-<h1 align="center">Hi 👋, I am Drubo</h1>
+I work at the intersection of **Remote Sensing, GIS, and Machine Learning**, with a focus on **environmental monitoring and natural hazard assessment**. My research emphasizes extracting spatiotemporal patterns from multi-source satellite data (Optical & SAR) to support **risk assessment, ecosystem monitoring, and evidence-based environmental decision-making**.
 
-###
+---
 
-<h2 align="left">A Forestry graduate skilled in Python, R, Google Earth Engine, ArcGIS, NumPy, Pandas, SQL and Power BI, with a mission to revolutionize landslide susceptibility mapping through GIS and artificial neural networks.</h2>
+### 🔬 Research Interests
+- Landslide Susceptibility and Natural Hazard Mapping  
+- Mangrove and Coastal Ecosystem Monitoring  
+- Flood and Surface Water Dynamics  
+- Land Use / Land Cover Change Detection  
+- Machine Learning and Deep Learning for Earth Observation  
+- Spatiotemporal Analysis and Multi-source Satellite Data Fusion (Optical & SAR)
 
-###
+---
 
-<h2 align="left">About me</h2>
+### 📊 Current Research
+- **Landslide Susceptibility Mapping** using GIS-based spatial modeling and machine learning classifiers  
+- **SAR-based Surface Water Monitoring** through time-series analysis in Google Earth Engine  
+- **Mangrove Health and Forest Dynamics** using multi-temporal satellite indices and change detection techniques  
 
-###
+📌 *Actively preparing PhD applications in Remote Sensing, GIS, and Environmental Data Science.*
 
-<div align="left">
-<h3>🔭 I’m currently working on -  Landslide susceptibility mapping</h3>
-<h3>🌱 I’m currently learning - Machine learning</h3>
-<h3>👯 I’m looking to collaborate on - Data Science Project</h3>
-<h3>💬 Ask me about - Python, ArcGIS, Google Earth Engine</h3>
-<h3>📫 How to reach me - pdrubo064@gmail.com</h3>
+---
 
-<h3>⚡ Fun fact - I’ve got a brave heart that laughs in the face of ghosts, but throw on a horror movie, and I’ll be jumping at shadows. Spooky stuff just gets to me. 🎃💀</h3>
-</div>
+### 🛰️ Tools & Methods
+- **Remote Sensing:** Sentinel-1/2, Landsat, MODIS  
+- **Platforms:** Google Earth Engine, ArcGIS Pro, QGIS  
+- **Programming:** Python (NumPy, Pandas, GeoPandas, Rasterio, Scikit-learn), R  
+- **Machine Learning / Deep Learning:** Random Forest, XGBoost, CNN, LSTM  
+- **Data Analysis:** Time Series Analysis, Spatial Statistics, Change Detection  
 
-###
+---
 
-<h2 align="left">I code with</h2>
+### 📁 Selected Projects
+- **SAR Surface Water Explorer** – Interactive Google Earth Engine web application for monitoring surface water dynamics in Bangladesh  
+- **Landslide Susceptibility Mapping** – GIS and machine learning–based hazard assessment framework  
+- **VectorMatrix** – Geospatial data cleaning, validation, and topological analysis toolkit  
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-</div>
+### 🎓 Education
+- **M.Sc. in Forestry** – University of Chittagong  
+  *Thesis:* Assessment of Soil Organic Carbon Stock using Spatial Analysis  
+- **B.Sc. in Forestry** – University of Chittagong  
 
-###
+---
+
+### 📄 Publications
+- Manuscripts in preparation on remote sensing–based environmental monitoring and hazard analysis  
+
+---
+
+### 🤝 Collaboration
+I am open to collaboration on:
+- Remote Sensing and GIS research  
+- Environmental Machine Learning projects  
+- Google Earth Engine applications  
+
+---
+
+### 📫 Contact
+- Email: **pdrubo064@gmail.com**  
+- GitHub: [https://github.com/DruboPaul](https://github.com/DruboPaul)  
+- LinkedIn: [https://linkedin.com/in/drubo-paul](https://linkedin.com/in/drubo-paul)
