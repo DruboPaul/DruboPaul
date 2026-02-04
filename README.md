@@ -71,4 +71,4 @@ I am open to collaboration on:
 - GitHub: [https://github.com/DruboPaul](https://github.com/DruboPaul)  
 - LinkedIn: [https://linkedin.com/in/drubo-paul](https://linkedin.com/in/drubo-paul)
 ### 📄 Curriculum Vitae
-- [Academic CV (PDF)](https://raw.githubusercontent.com/DruboPaul/DruboPaul/main/Drubo_Paul_CV.pdf)
+- [Drubo_Paul CV (PDF)](https://raw.githubusercontent.com/DruboPaul/DruboPaul/main/Drubo_Paul_CV.pdf)
